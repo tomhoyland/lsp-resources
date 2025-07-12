@@ -1,6 +1,9 @@
 # Lego Serious Play Resources
 A collection of resources, notes and assets to support facilitators and participants during Lego Serious Play activities.
 
+**Go here: https://github.com/tomhoyland/lsp-resources/wiki**
+
+
 
 **Disclaimer**
 
